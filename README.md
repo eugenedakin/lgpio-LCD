@@ -13,3 +13,14 @@ The estimated time for the book to be released is the fall of 2023.
 
 Version 1.0 (19 March 2020)
 - Initial Version of lgpio-GPIO library
+
+V1.1 (25 Mar 2023)
+ - Added ScrollDisplayLeft
+ - Added ScrollDisplayRight
+
+V1.2 (25 Mar 2023)
+ - Make kLine1 public
+ - Make kLine2 public
+ - Make kLine3 public
+ - Make kLine4 public
+ - Make added (hHandle as Integer) to Home method
