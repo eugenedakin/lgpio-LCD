@@ -23,4 +23,4 @@ V1.2 (25 Mar 2023)
  - Make kLine2 public
  - Make kLine3 public
  - Make kLine4 public
- - Make added (hHandle as Integer) to Home method
+ - Added (hHandle as Integer) to Home method
